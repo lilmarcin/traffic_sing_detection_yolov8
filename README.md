@@ -154,4 +154,4 @@ cv2.destroyAllWindows()
 
 <img src="examples\example_yolov8_2.gif"/>
 
-<img src="examples\poniatowski.gif"/>
+<img src="examples\example3.gif"/>
